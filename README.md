@@ -1,4 +1,5 @@
 # Lightning Design System and React Reference Application 
+# Purple Theme
 
 This repository is the home of **Lightning Realty**, a reference application built with [React](http://facebook.github.io/react/) and the [Lightning Design System](http://www.lightningdesignsystem.com). 
 
